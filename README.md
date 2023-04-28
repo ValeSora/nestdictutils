@@ -6,15 +6,5 @@
 
 * **Installation**: [placeholder]
 * **Documentation**: [placeholder]
-* **Bug reports**: [placeholder]
-
-Testing:
-
-`nestdictutils` requires `pytest`. Tests can be run after installation by launching the following command inside the installation directory:
-
-```
-pytest
-```
-
-
+* **Bug reports**: [https://github.com/ValeSora/nestdictutils/issues](https://github.com/ValeSora/nestdictutils/issues)
 
