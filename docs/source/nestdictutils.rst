@@ -1,7 +1,7 @@
 nestdictutils
 =============
 
-.. automodule:: nestdictutils.utils
+.. automodule:: utils
    :members:
    :undoc-members:
    :show-inheritance:
