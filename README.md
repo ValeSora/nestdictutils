@@ -4,7 +4,6 @@
 
 `nestdictutils` is a Python package providing several utilities to work with and manipulate nested dictionaries.
 
-* **Installation**: [placeholder]
-* **Documentation**: [placeholder]
+* **Installation**: [https://nestdictutils.readthedocs.io/en/latest/Getting%20started.html#installing-nestdictutils](https://nestdictutils.readthedocs.io/en/latest/Getting%20started.html#installing-nestdictutils)
+* **Documentation**: [https://nestdictutils.readthedocs.io/en/latest/](https://nestdictutils.readthedocs.io/en/latest/)
 * **Bug reports**: [https://github.com/ValeSora/nestdictutils/issues](https://github.com/ValeSora/nestdictutils/issues)
-
