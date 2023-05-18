@@ -72,8 +72,7 @@ def recursive_get_values_from_key(d,
     values = []
 
     # Define the recursive step internally so that the 'values'
-    # argument is not exposed to the user in the
-    # 'recursive_get_item' function
+    # argument is not exposed to the user in the function
     def recursive_step(d,
                        key,
                        values):
