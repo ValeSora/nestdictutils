@@ -1058,7 +1058,7 @@ def recursive_map_dict(d,
                     # of the current dictionary
                     recursive_step(d = v,
                                    func = func,
-                                   keys = keys,
+                                   keys = sel_keys,
                                    permissive = permissive)
 
                 # Otherwise
